@@ -2,7 +2,7 @@
 
 JAX implementation of
 [Tensorial Radiance Fields](https://apchenstu.github.io/TensoRF/), written as an
-exercise.
+exercise. This is a copy of the [code](https://github.com/brentyi/tensorf-jax) from [Brent Yi](https://brentyi.com/), which we used for the course CS294: Geometry and Learning for 3D Vision in Spring 2022 at UC Berkeley.
 
 ```
 @misc{TensoRF,
